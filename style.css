@@ -1,0 +1,48 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+.light-gray{
+    background-color: #D3D3D3;
+}
+.bg-white{
+    background-color: white;
+
+}
+.text-gray{
+    color:gray;
+}
+.fa{
+      
+    color:#42c8f4;
+}
+.progress-bar
+{
+    background-color: #42c8f4;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.nav-item{
+    color: gray;
+}
+.active .nav-link{
+    color: #42c8f4;
+}
+.about-me .fa{
+    font-size: 40px;
+}
+.about-me h2,.resume h2{
+    color: gray;
+}
+.about-me p,.resume p{
+    color: gray;
+}
+.about-me b,.resume b{
+    color: #42c8f4;
+}
+.contact .fa{
+    font-size: 30px;
+    
+}
