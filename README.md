@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me:
 
-<p>Email <a href="mailto:royparth94@gmail.com">here</a> for some formal talk, or ping me for a quick chat on <a href="https://www.instagram.com/ig_kk007" target="_blank">Instagram</a>
+<p>Email <a href="mailto:royparth94@gmail.com">here</a> for some formal talk, or ping me for a quick chat on <a href="https://www.instagram.com/parth_roy_20" target="_blank">Instagram</a>
 </p>
 <pre>Do check my portpholio At : <a href="https://royparth20.github.io/" target="_blank">Github</a></pre>
 <img src='https://github-readme-stats.vercel.app/api?username=royparth20&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff'/>
